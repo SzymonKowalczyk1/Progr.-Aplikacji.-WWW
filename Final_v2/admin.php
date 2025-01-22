@@ -3,7 +3,7 @@
 
 session_start();
 
-// Dołącz plik konfiguracji
+
 include("cfg.php");
 
 function FormularzLogowania() {
